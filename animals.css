@@ -1,0 +1,8 @@
+.btn-dark {
+    border-radius: 2px;
+}
+
+canvas {
+    border: solid black;
+    box-shadow: 5px 5px 5px;
+}
